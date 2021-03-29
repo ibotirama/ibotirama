@@ -2,7 +2,7 @@
 
 💡 &nbsp;I am Always trying to improve.\
 🎓 &nbsp;I'm currently studying ways to improve my career and share knowledge.\
-🌱 &nbsp;Maybe one more youtube channel is about to born. (Java, Spring, React, Systems Design, DevOps and Cloud Architecture.\
+🌱 &nbsp;Maybe one more youtube channel is about to born. (Java, Spring, React, Systems Design, DevOps and Cloud Architecture).\
 ✍️ &nbsp;In my free time, I am dreaming with a master degree and practicing Brazilian Jiu-jitsu.\
 💬 &nbsp;Feel free to reach out to me for any conversation about tech stuff or BJJ.\
 ✉️ &nbsp;Do not hesitate of send me a message, I will replay ASAP.
