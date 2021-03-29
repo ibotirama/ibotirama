@@ -18,7 +18,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Reach me out.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/pedro-henrique-andrade/"><img src="https://img.shields.io/badge/-Pedro%20Andrade-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
